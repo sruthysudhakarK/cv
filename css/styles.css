@@ -1,0 +1,29 @@
+
+body{
+      background-color:#FEE3EC;
+      }
+
+hr{
+      border-color: #F9C5D5;
+      border-width: 5px;
+      border-style: none;
+      border-top-style: dotted;
+      width: 10%;
+      }
+h1{
+      font-family: serif;
+      font-style: normal;
+      color: #B34180;
+}
+
+h2{
+      font-family: Helvetica;
+      font-style: normal;
+      color: #B34180;
+}
+
+h3{
+      font-family: Brush Script MT;
+      font-style: normal;
+      color: #B34180;
+}
